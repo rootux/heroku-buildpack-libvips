@@ -3,7 +3,7 @@
 set -e
 
 # Set vips version
-export VIPS_VERSION=8.8.0
+export VIPS_VERSION=8.8.1
 export WEBP_VERSION=1.0.2
 export ORC_VERSION=0.4.29
 export TIFF_VERSION=4.0.10
