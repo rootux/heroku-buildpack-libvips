@@ -3,6 +3,8 @@ heroku-buildpack-libvips
 
 Heroku buildpack with [libvips](https://libvips.github.io/libvips/) installed.
 
+It uses the latest libvips that supported by Sharp 0.23.4 Which is Libvips 8.8.1 - Both are needed if you're node is 8.x
+
 You can even use the [ruby-vips](https://github.com/libvips/ruby-vips) gem 😉
 
 ## Requirements
