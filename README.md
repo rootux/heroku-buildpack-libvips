@@ -38,13 +38,13 @@ Get any [packages you may have missing](https://github.com/libvips/libvips/wiki/
 To use the latest stable version:
 
 ```
-heroku buildpacks:add --index 2 zoras/heroku-buildpack-libvips
+heroku buildpacks:add --index 2 rootux/heroku-buildpack-libvips
 ```
 
 To use the edge version (i.e. the code in this repo):
 
 ```
-heroku buildpacks:add -i 2 https://github.com/zoras/heroku-buildpack-libvips
+heroku buildpacks:add -i 2 https://github.com/rootux/heroku-buildpack-libvips
 ```
 
 ## Build script
